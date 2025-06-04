@@ -192,6 +192,12 @@ In this phase, the goal was to detect not just if the connection is malicious, b
 - SMOTE (Imbalanced-learn)
 
 ---
+## 🧑‍💻 Competition
+
+Successfully won the first place in the kaggle competition for phase 2 with the project under the name of our team "ML Masters".
+  
+  ![kaggle competition](kaggle_competition_ranking.png)
+
 ## 📜 Final Notes
 
 This project presents a **complete pipeline** for handling a real-world cybersecurity detection problem—from binary classification to detailed multiclass attack labeling. The combination of **rigorous preprocessing, thoughtful feature engineering, multiple ML models, and careful evaluation** ensures the robustness and applicability of the developed solution.
